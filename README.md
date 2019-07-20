@@ -11,7 +11,7 @@
 
 
 # Play Video in Computer 
-![play Video in Compute](https://github.com/sparkouttech/angular-videoplayer/blob/master/src/assets/media/play.png?raw=true "lay Video in Compute")
+![play Video in Computer](https://i.ibb.co/kGCV5n5/Screenshot-2.png "Play Video in Computer")
 
 # Play Video in Mobile Device 
-![play Video in Compute](https://github.com/sparkouttech/angular-videoplayer/blob/master/src/assets/media/mobile.png?raw=true "lay Video in Compute")
+![play Video in Compute](https://i.ibb.co/5GK3WpJ/Screenshot-3.png "Play Video in Mobile")
