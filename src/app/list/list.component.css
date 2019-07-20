@@ -1,0 +1,14 @@
+.border-round{
+    border: 1px solid lightgray;
+    border-radius: 7px;
+}
+.main-video-list{
+    cursor: pointer;
+}
+.footer{
+    padding: 20px;
+    border:1px solid grey;
+    text-align: center;
+    margin: 20px;
+    background: lightgray;
+}

@@ -1,0 +1,11 @@
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .tool-bar {
+    position: sticky!important;
+    position: -webkit-sticky!important; /* For macOS/iOS Safari */
+    top: 0!important; /* Sets the sticky toolbar to be on top */
+    z-index: 1000!important; /* Ensure that your app's content doesn't overlap the toolbar */
+}

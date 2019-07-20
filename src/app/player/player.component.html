@@ -1,0 +1,22 @@
+<div class="container">
+  <mat-grid-list [cols]="breakpoint">
+    <mat-grid-tile style="padding-top: calc(((29% - 0.5px) * 1) + 0px)!important">
+      <mat-grid-list [cols]="breakpoint" rowHeight="1:1.0" gutterSize="10px">
+        <mat-card>
+          <div class="video-container">
+            <mat-video [title]="videoObj.title" class="video" [autoplay]="true" [preload]="true" [fullscreen]="true"
+              [download]="true" color="accent" spinner="spin" [poster]="videoObj.thumb">
+              <source matVideoSource src="{{videoObj.sources[0]}}" type="video/mp4">
+            </mat-video>
+          </div>
+          <br>
+          <h4>{{videoObj.title}} ({{videoObj.subtitle}})</h4>
+          <b>Description</b>
+          <br>
+          <p>{{videoObj.description}}</p>
+        </mat-card>
+      </mat-grid-list>
+    </mat-grid-tile>
+  </mat-grid-list>
+
+</div>
