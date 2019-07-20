@@ -1,9 +1,7 @@
-# angular-videoplayer
+# angular-video-player
 
 # Demo Video : [Click here to see Demo Video](https://www.loom.com/share/ab3323c1939b4739b5d8c3f58fb041de).
 
-#
-#
 # Home Page in Computer
 ![Home Page in Computer](https://github.com/sparkouttech/angular-videoplayer/blob/master/src/assets/media/home.png?raw=true "Home Page")
 
