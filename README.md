@@ -1,4 +1,4 @@
-# angular-video-player
+# angular-video-player sample project
 
 # Demo Video : [Click here to see Demo Video](https://www.loom.com/share/ab3323c1939b4739b5d8c3f58fb041de).
 
